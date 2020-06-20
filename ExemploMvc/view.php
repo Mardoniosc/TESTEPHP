@@ -10,6 +10,6 @@ class View
 
         public function render()
         {
-                echo $this->message;
+                print_r($this->message);
         }
 }
