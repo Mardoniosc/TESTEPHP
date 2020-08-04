@@ -1,9 +1,10 @@
+<?php ?>
 <!DOCTYPE html>
 <html>
   <head>
     <title>TagCanvas example</title>
     <!-- [if lt IE 9]><script type="text/javascript" src="tagcanvas.min.js"></script><![endif] -->
-    <script src="tagcanvas.min.js" type="text/javascript"></script>
+    <script src="../NuvemDePalavras1/tagcanvas.min.js" type="text/javascript"></script>
     
     <script type="text/javascript">
       window.onload = function() {
@@ -57,3 +58,4 @@
     </div>
   </body>
 </html>
+<?php ?>

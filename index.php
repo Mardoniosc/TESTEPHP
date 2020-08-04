@@ -17,6 +17,8 @@
           <li><a href="/ChamadaCurl">Chamada Curl</a></li>
           <li><a href="/ExemploMvc">Exemplo MVC</a></li>
           <li><a href="/GeradorDeSenha">Gerador de senha</a></li>
+          <li><a href="/NuvemDePalavras1">Numvem de Plavras 1</a></li>
+          <li><a href="/NuvemDePalavras2">Numvem de Plavras 2</a></li>
           <li><a href="#">Não faz nada</a></li>                
   </ul>
   </nav>
